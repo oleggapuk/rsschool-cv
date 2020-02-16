@@ -15,4 +15,4 @@ Me real goal is to do what I like the most, and I'm really into webdev. I like l
 8. REST Api
 ### Code examples
 * My friend's art portfolio. [Preview](https://oleggapuk.github.io/diane-art-portfolio/), [GitHub](https://github.com/oleggapuk/diane-art-portfolio). Built using plain HTML and CSS
-* Weather APP. [Preview](), [GitHub](). In this project I user [OpenWeatherMap Api](https://openweathermap.org/api) and also HTML%
+* Weather APP. [Preview](https://gradooid.github.io/weather/), [GitHub](https://github.com/gradooid/weather). In this project I used [OpenWeatherMap Api](https://openweathermap.org/api) and also HTML5 Geolocation Api
