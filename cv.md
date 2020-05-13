@@ -5,16 +5,17 @@
 ### Summary
 Me real goal is to do what I like the most, and I'm really into webdev. I like learning new things and implementing them in various projects. Though I started learning how to built web-sites less then a year ago I can already tell that it is what I want to do in my life.
 ### Skills
-* HTML, CSS & JavaScript
-* CSS Media queries
+* HTML, CSS, PHP, JavaScript, NodeJS
+* CSS Media queries, Flexbox, Grid CSS
 * BEM
 * GIT
-* VS Code, Sublime Text 3, Atom
-* Bootstrap, Material UI, SASS
+* VS Code, Sublime Text 3, PhpStorm
+* Bootstrap, Material UI, SCSS
 * ReactJS
 * REST Api
+* Express, Laravel
 ### Code examples/Experience
-* My friend's art portfolio. [Preview](https://oleggapuk.github.io/diane-art-portfolio/), [GitHub](https://github.com/oleggapuk/diane-art-portfolio). Built using plain HTML and CSS
+* My friend's art portfolio. [Preview](https://olehhapuk.github.io/diane-art-portfolio/), [GitHub](https://github.com/oleggapuk/diane-art-portfolio). Built using plain HTML and CSS
 * Weather APP. [Preview](https://gradooid.github.io/weather/), [GitHub](https://github.com/gradooid/weather). In this project I used [OpenWeatherMap Api](https://openweathermap.org/api) and also HTML5 Geolocation Api
 ### Education
 Everything I know I learned by myself using online tutorials from such YouTube channels as [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA), [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q), [WebDev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw), [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) and more. Also I often read [Habr](https://habr.com/), [Dev Community](https://dev.to/) and [Medium](https://medium.com/)
