@@ -1,1 +1,1 @@
-[RS School CV](https://oleggapuk.github.io/rsschool-cv/cv)
+[RS School CV](https://olehhapuk.github.io/rsschool-cv/cv)
