@@ -13,7 +13,7 @@ Me real goal is to do what I like the most, and I'm really into webdev. I like l
 * ReactJS, Redux, Redux-Toolkit, Formik, 
 * Express, Laravel, Sequelize, jsonwebtoken, bcrypt
 ### Code examples/Experience
-* Right now I'm reworking my Trello clone which was made with ReactJS, TypeScript on Front-End, and MongoDB Atla, @hapi/joi on Back-End. Moving it to Material UI for premade UI components and Sequelize + Postgresql from backend. [GitHub Front-End](https://github.com/olehhapuk/trello-clone), [GitHub Back-End](https://github.com/olehhapuk/trello-clone-server)
+* Right now I'm reworking my Trello clone which was made with ReactJS, TypeScript on Front-End, and MongoDB Atlas, @hapi/joi on Back-End. Moving it to Material UI for premade UI components and Sequelize + Postgresql from backend. [GitHub Front-End](https://github.com/olehhapuk/trello-clone), [GitHub Back-End](https://github.com/olehhapuk/trello-clone-server)
 * Weather APP. [Preview](https://gradooid.github.io/weather/), [GitHub](https://github.com/gradooid/weather). In this project I used ReactJS, [OpenWeatherMap Api](https://openweathermap.org/api) and also HTML5 Geolocation Api
 * Alin. Project I'm making with my friend [Preview](https://vovanolo.github.io/alinuamaket/), [GitHub](https://github.com/vovanolo/alinuamaket/tree/moving-to-react)
 ### Education
