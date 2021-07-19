@@ -8,8 +8,8 @@ My real goal is to do what I like the most and I'm really into webdev. I like le
 * HTML, CSS, SASS, PHP, JavaScript, TypeScript
 * CSS Media queries, Flexbox, Grid CSS, BEM
 * GIT
-* Bootstrap, Semantic UI, Material UI, Ant Design
-* ReactJS, Redux, Redux-Toolkit, Formik
+* Bootstrap, Semantic UI, Material UI, Ant Design, Chakra UI
+* ReactJS, Redux, Redux-Toolkit, Formik, styled-components
 * NodeJS, Express
 ### Experience
 * Front-end: 4 years
